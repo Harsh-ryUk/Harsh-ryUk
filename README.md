@@ -21,115 +21,60 @@
 ---
 ### 🎯 What I Work On
 
-<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/> <h3>🤖 AI Systems</h3> <p>Designing ML pipelines that move from research metrics to real-world deployment</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/000000/visible.png"/> <h3>👁️ Computer Vision</h3> <p>Real-time perception systems for ADAS, facial analysis, and vision intelligence</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/000000/combo-chart.png"/> <h3>📊 Data Science</h3> <p>Turning messy data into actionable insights and revenue-impacting decisions</p> </td> </tr> </table> </div>
-
-
-## 🚀 Featured Work Highlights
-
 <div align="center">
 
 <table>
 <tr>
 
-<!-- ================= ADAS ================= -->
-<td width="50%" align="center">
+<!-- AI Systems -->
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="65"/>
 
-### 🚗 ADAS Vision Pipeline  
-**Real-Time Computer Vision**
+<h3>🤖 AI Systems</h3>
 
-📸 Road damage detection & lane segmentation  
-⚡ **30+ FPS** real-time inference  
-⏱️ **< 100ms** end-to-end latency  
-🌦️ Robust to traffic & weather variations  
-
-**Tech Stack**  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
-![U--Net](https://img.shields.io/badge/U--Net-4F46E5?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv)
-
-<a href="https://github.com/Harsh-ryUk/ADAS-Vision-Pipeline">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
-</a>
+Designing end-to-end ML systems that move from  
+<b>research metrics → production deployment</b>,  
+with a strong focus on performance, scalability, and reliability.
 
 </td>
 
-<!-- ================= PII NLP ================= -->
-<td width="50%" align="center">
+<!-- Computer Vision -->
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="65"/>
 
-### 🔐 PII Classification System  
-**NLP • Transformers**
+<h3>👁️ Computer Vision</h3>
 
-🧠 BERT fine-tuned for sensitive entity detection  
-📄 Multi-class PII categorization  
-📊 **F1 Score = 0.92**  
-🔒 Privacy & compliance focused  
-
-**Tech Stack**  
-![BERT](https://img.shields.io/badge/BERT-6366F1?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-8B5CF6?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-
-<a href="https://github.com/Harsh-ryUk/PII">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
-</a>
+Building real-time perception pipelines for  
+<b>ADAS, facial analysis, and visual intelligence</b>,  
+optimized for low latency and edge deployment.
 
 </td>
 
-</tr>
+<!-- LLMs / GenAI -->
+<td align="center" width="25%">
 
-<tr>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="65"/>
 
-<!-- ================= FACE ================= -->
-<td width="50%" align="center">
+<h3>🧠 LLMs & Generative AI</h3>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70"/>
-
-### 🧍 Facial Recognition System  
-**Real-Time Facial Analysis**
-
-👁️ Facial landmark & head-pose estimation  
-🌙 **+15%** low-light performance improvement  
-🎯 **99% accuracy**  
-⚡ **< 50ms** per-frame inference  
-
-**Tech Stack**  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9333EA?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-
-<a href="https://github.com/Harsh-ryUk/End-to-End-Facial-Recognition-Analysis-System-">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
-</a>
+Working with <b>Transformers, LLM fine-tuning, and RAG pipelines</b>  
+to build intelligent systems for text understanding, privacy,  
+and decision automation.
 
 </td>
 
-<!-- ================= FUNGI ================= -->
-<td width="50%" align="center">
+<!-- Data Science -->
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="65"/>
 
-### 🍄 Rare Fungi Species Recognition  
-**Few-Shot Learning • Computer Vision**
+<h3>📊 Data Science</h3>
 
-🧬 Multimodal few-shot recognition system  
-📦 Dataset size: **20,000+ samples**  
-📈 **Recall@5 = 0.55**  
-🌍 Applications in biodiversity & ecological research  
-
-**Tech Stack**  
-![Few--Shot](https://img.shields.io/badge/Few--Shot%20Learning-16A34A?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-
-<a href="https://github.com/Harsh-ryUk/Fungi-Computer-Vision">
-  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
-</a>
+Turning raw, messy data into  
+<b>actionable insights and business impact</b>  
+through analytics, statistics, and experimentation.
 
 </td>
 
@@ -142,10 +87,146 @@
 
 <div align="center">
   <sub>
-    Built with a focus on <b>accuracy, latency, and real-world deployability</b> — not just benchmarks.
+    My work prioritizes <b>deployability, interpretability, and real-world impact</b> — not just model scores.
   </sub>
 </div>
+>
 
+
+### ## 🚀 Featured Work Highlights
+
+<table align="center" width="100%">
+
+<!-- ================= ROW 1 ================= -->
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🚗 ADAS Vision Pipeline  
+**Real-Time Computer Vision**
+
+🛣️ Road damage & lane detection  
+⚡ **30+ FPS** inference  
+⏱️ **< 100ms** latency  
+
+**Tech Stack**  
+![YOLOv8](https://img.shields.io/badge/YOLOv8-blue)
+![U--Net](https://img.shields.io/badge/U--Net-purple)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/ADAS-Vision-Pipeline)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🔐 PII Classification  
+**NLP • Transformers**
+
+🧠 BERT-based entity detection  
+📊 **F1 = 0.92**  
+🔒 Privacy-focused NLP  
+
+**Tech Stack**  
+![BERT](https://img.shields.io/badge/BERT-indigo)
+![Transformers](https://img.shields.io/badge/Transformers-violet)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/PII-Classification)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧍 Facial Recognition  
+**Real-Time Vision System**
+
+🎯 **99% accuracy**  
+🌙 **+15%** low-light improvement  
+⚡ **< 50ms** inference  
+
+**Tech Stack**  
+![OpenCV](https://img.shields.io/badge/OpenCV-blue)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple)
+![Python](https://img.shields.io/badge/Python-blue)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Facial-Recognition-System)
+
+</td>
+
+</tr>
+
+<!-- ================= ROW 2 ================= -->
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🍄 Rare Fungi Recognition  
+**Few-Shot Learning • Vision**
+
+📦 **20,000+ samples**  
+📈 **Recall@5 = 0.55**  
+🌍 Ecological AI use-case  
+
+**Tech Stack**  
+![Few--Shot](https://img.shields.io/badge/Few--Shot-green)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Rare-Fungi-Recognition)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎯 Behaviour Detection  
+**Sensor Fusion • Deep Learning**
+
+📡 Multi-sensor time series  
+🎯 **F1 = 0.82** (binary)  
+📊 **Macro F1 = 0.79**  
+
+**Tech Stack**  
+![Time Series](https://img.shields.io/badge/Time_Series-cyan)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple)
+![Python](https://img.shields.io/badge/Python-blue)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Behaviour-Detection-Sensor-Data)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🌐 Multilingual Chatbot Arena  
+**LLMs • NLP • Evaluation**
+
+💬 Multi-language chatbot benchmarking  
+🌍 Cross-lingual conversation handling  
+📊 Comparative response evaluation  
+🧠 Focus on LLM quality & robustness  
+
+**Tech Stack**  
+![LLMs](https://img.shields.io/badge/LLMs-purple)
+![NLP](https://img.shields.io/badge/NLP-violet)
+![Transformers](https://img.shields.io/badge/Transformers-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Multilingual-Chatbot-Arena)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<sub>
+All projects emphasize <b>accuracy, latency, robustness, and real-world deployability</b>.
+</sub>
 
 
 
@@ -206,7 +287,7 @@
 </div>
 
 
-## 🌟 Leadership Highlights
+### 🌟 Leadership Highlights
 
 <div align="center">
 
@@ -214,68 +295,70 @@
 <tr>
 
 <!-- Fashion Club -->
-<td width="50%" align="center">
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="70" alt="fashion animation"/>
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="65" alt="fashion"/>
 
-### 👔 Founder & Head  
-**Fashion Club — IIT (ISM)**
+<h3>👔 Fashion Leadership</h3>
+<strong>Founder & Head<br>Fashion Club — IIT (ISM)</strong>
 
-🧵 Built the club **from scratch**  
-👥 Led a **30+ member core team**  
-👗 Organized **5+ fashion & lifestyle events**  
-🎉 Engaged **500+ participants**  
-🎨 Shaped creative direction & brand identity
+<p>
+🧵 Built the club from scratch<br>
+👥 Led a 30+ member core team<br>
+👗 Organized 5+ fashion events<br>
+🎨 Drove creative direction & branding
+</p>
 
 </td>
 
 <!-- Hospitality -->
-<td width="50%" align="center">
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="70" alt="event management"/>
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="65" alt="hospitality"/>
 
-### 🎪 Hospitality Head  
-**Srijan’24 (Cultural Fest)**
+<h3>🎪 Hospitality Ops</h3>
+<strong>Hospitality Head<br>Srijan’24</strong>
 
-🏟️ Managed **6000+ attendees**  
-📦 Oversaw accommodation, vendors & logistics  
-📉 Reduced operational costs by **15%**  
-⏱️ Delivered under tight, real-world deadlines  
-🤝 Coordinated large cross-functional teams
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- PR / Media -->
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70" alt="media marketing"/>
-
-### 📢 PR Head  
-**Parakram’24 (Sports Fest)**
-
-📣 Led branding & outreach strategy  
-🤝 Secured **20% more partnerships YoY**  
-💼 Handled sponsor negotiations  
-🌐 Amplified event visibility & reach
+<p>
+🏟️ Managed 6000+ attendees<br>
+📦 Oversaw logistics & vendors<br>
+📉 Reduced costs by 15%<br>
+🤝 Coordinated large teams
+</p>
 
 </td>
 
-<!-- Blood / Social Impact -->
-<td width="50%" align="center">
+<!-- PR -->
+<td align="center" width="25%">
 
-<img src="https://media.giphy.com/media/1Bd7DmRvbhV5UPkoDw/giphy.gif" width="70" alt="health blood donation"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="65" alt="pr"/>
 
-### 🩸 Blood Coordinator  
-**Fast Forward India**
+<h3>📢 Public Relations</h3>
+<strong>PR Head<br>Parakram’24</strong>
 
-❤️ Built a **200+ active donor network**  
-🚑 Coordinated emergency blood requests  
-📍 Enabled fast, region-wide response  
-🧠 Structured operations for life-critical impact
+<p>
+📣 Led outreach & branding<br>
+🤝 Secured 20% more partners<br>
+💼 Handled sponsorships<br>
+🌐 Expanded event visibility
+</p>
+
+</td>
+
+<!-- Blood -->
+<td align="center" width="25%">
+
+<img src="https://media.giphy.com/media/1Bd7DmRvbhV5UPkoDw/giphy.gif" width="65" alt="blood"/>
+
+<h3>🩸 Social Impact</h3>
+<strong>Blood Coordinator<br>Fast Forward India</strong>
+
+<p>
+❤️ Built 200+ donor network<br>
+🚑 Coordinated emergency drives<br>
+📍 Enabled rapid response<br>
+🧠 Structured life-critical ops
+</p>
 
 </td>
 
@@ -288,30 +371,35 @@
 
 <div align="center">
   <sub>
-    Leadership for me means <b>ownership, execution, and real-world outcomes</b> — not just titles.
+    Leadership for me is about <b>ownership, execution, and measurable impact</b> — not just titles.
   </sub>
 </div>
 
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
+---
 
-  <!-- Aesthetic divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+        width="420"
+        alt="AI ML animation"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://media1.tenor.com/m/QwynhrOhI3wAAAAd/levi-ackerman-beast-titan.gif"
+        width="360"
+        alt="Levi Ackerman"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Calm aesthetic illustration -->
-  <img 
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-    width="420"
-    alt="coding aesthetic"
-  />
+---
 
-  <br><br>
+⭐ **If you like my work, consider starring the repos**
 
-  <strong>⭐ Star my repositories if you find them useful</strong>  
-  <br>
-  <sub>Building AI systems with impact, not just demos.</sub>
-
-</div>
 
 
