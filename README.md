@@ -93,7 +93,7 @@ through analytics, statistics, and experimentation.
 >
 
 
-### ## 🚀 Featured Work Highlights
+### 🚀 Featured Work Highlights
 
 <table align="center" width="100%">
 
@@ -134,7 +134,7 @@ through analytics, statistics, and experimentation.
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/PII-Classification)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/PII)
 
 </td>
 
@@ -152,7 +152,7 @@ through analytics, statistics, and experimentation.
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Facial-Recognition-System)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/End-to-End-Facial-Recognition-Analysis-System-)
 
 </td>
 
@@ -175,7 +175,7 @@ through analytics, statistics, and experimentation.
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Rare-Fungi-Recognition)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Fungi-Computer-Vision)
 
 </td>
 
@@ -194,7 +194,7 @@ through analytics, statistics, and experimentation.
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple)
 ![Python](https://img.shields.io/badge/Python-blue)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Behaviour-Detection-Sensor-Data)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/CMI-Detect-Behaviour-using-sensor-data)
 
 </td>
 
@@ -214,7 +214,7 @@ through analytics, statistics, and experimentation.
 ![Transformers](https://img.shields.io/badge/Transformers-blue)
 ![Python](https://img.shields.io/badge/Python-blue)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Multilingual-Chatbot-Arena)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/WSDM-Cup-Multilingual-Chatbot-Arena)
 
 </td>
 
