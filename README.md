@@ -18,11 +18,6 @@
   </p>
 </div>
 
-<!-- ================= QUOTE ================= -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
 ---
 ### 🎯 What I Work On
 
