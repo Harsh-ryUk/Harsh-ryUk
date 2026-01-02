@@ -75,7 +75,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 
-<a href="https://github.com/Harsh-ryUk/PII-Classification">
+<a href="https://github.com/Harsh-ryUk/PII">
   <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -103,7 +103,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9333EA?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 
-<a href="https://github.com/Harsh-ryUk/Facial-Recognition-System">
+<a href="https://github.com/Harsh-ryUk/End-to-End-Facial-Recognition-Analysis-System-">
   <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -127,7 +127,7 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 
-<a href="https://github.com/Harsh-ryUk/Rare-Fungi-Recognition">
+<a href="https://github.com/Harsh-ryUk/Fungi-Computer-Vision">
   <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"/>
 </a>
 
