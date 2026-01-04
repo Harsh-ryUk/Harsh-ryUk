@@ -57,7 +57,7 @@ optimized for low latency and edge deployment.
 
 <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="65"/>
 
-<h3>🧠 LLMs & Generative AI</h3>
+<h3>🧠 LLMs & GenAI</h3>
 
 Working with <b>Transformers, LLM fine-tuning, and RAG pipelines</b>  
 to build intelligent systems for text understanding, privacy,  
@@ -90,8 +90,6 @@ through analytics, statistics, and experimentation.
     My work prioritizes <b>deployability, interpretability, and real-world impact</b> — not just model scores.
   </sub>
 </div>
->
-
 
 ### 🚀 Featured Work Highlights
 
@@ -303,10 +301,10 @@ All projects emphasize <b>accuracy, latency, robustness, and real-world deployab
 <strong>Founder & Head<br>Fashion Club — IIT (ISM)</strong>
 
 <p>
-🧵 Built the club from scratch<br>
-👥 Led a 30+ member core team<br>
-👗 Organized 5+ fashion events<br>
-🎨 Drove creative direction & branding
+🧵Built the club from scratch<br>
+👥Led a 30+ member core team<br>
+👗Organized 5+ fashion events<br>
+🎨Drove creative direction & branding
 </p>
 
 </td>
@@ -354,10 +352,10 @@ All projects emphasize <b>accuracy, latency, robustness, and real-world deployab
 <strong>Blood Coordinator<br>Fast Forward India</strong>
 
 <p>
-❤️ Built 200+ donor network<br>
-🚑 Coordinated emergency drives<br>
-📍 Enabled rapid response<br>
-🧠 Structured life-critical ops
+❤️Built 200+ donor network<br>
+🚑Coordinated emergency drives<br>
+📍Enabled rapid response<br>
+🧠Structured life-critical ops
 </p>
 
 </td>
