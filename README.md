@@ -115,7 +115,7 @@ through analytics, statistics, and experimentation.
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue)
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/ADAS-Vision-Pipeline)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-black?style=for-the-badge&logo=github)](https://github.com/Harsh-ryUk/Hybrid-Transformer-ADAS-India-Perspective)
 
 </td>
 
